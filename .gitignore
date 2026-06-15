@@ -1,0 +1,29 @@
+# Data files (too large for GitHub)
+data/
+*.mat
+*.npz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Figures (generated — can be reproduced)
+figs/
+
+# Office temp files
+~$*
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+*.egg-info/
+dist/
+build/
