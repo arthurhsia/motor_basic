@@ -1,5 +1,5 @@
 ECoG Motor Classification — 3-class decoding (tongue / hand / rest) from intracranial ECoG using Riemannian geometry and shrinkage LDA. Within-subject 5-fold CV across 18 subjects, achieving 89.4% test accuracy with per-band tangent space projection.
 
-
+Data from Miller, 2019
 https://pubmed.ncbi.nlm.nih.gov/31451738/
 https://searchworks.stanford.edu/view/zk881ps0522
